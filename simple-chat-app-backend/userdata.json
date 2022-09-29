@@ -1,0 +1,20 @@
+[
+    { "userName":"Jeeva",
+       "email":"jeevaphysicist@gmail.com",
+       "password":"2001",
+       "picture":"logo",
+       "user_id":"idididid_1"
+    },
+    { "userName":"Bheem",
+    "email":"jeeva@gmail.com",
+    "password":"2001",
+    "picture":"logo",
+    "user_id":"idididid_2"
+    },
+  { "userName":"Dora",
+   "email":"jeeva2@gmail.com",
+   "password":"2001",
+   "picture":"logo",
+   "user_id":"idididid_3"
+  }
+]
